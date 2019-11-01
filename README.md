@@ -1,4 +1,4 @@
-# 中华石杉--互联网Java进阶面试训练营
+中华石杉--互联网Java进阶面试训练营
 
 [![original](https://badgen.net/badge/original/%E4%B8%AD%E5%8D%8E%E7%9F%B3%E6%9D%89/orange)]
 [![open-source-organization](https://badgen.net/badge/organization/join%20us/138c7b)]
